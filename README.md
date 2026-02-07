@@ -5,7 +5,6 @@ This project lets users **create, delete, and manage notes** with an intuitive U
 
 ---
 
-
 ## 🚀 Features
 
 This app currently includes:
@@ -14,7 +13,7 @@ This app currently includes:
 ✔️ Delete existing notes  
 ✔️ Smooth button animation using Material-UI  
 ✔️ Modular component-based design  
-✔️ Responsive UI built with React & CSS
+✔️ Responsive UI built with React & CSS  
 
 ---
 
@@ -26,7 +25,7 @@ The project uses the following technologies:
 - 📦 **Material-UI (Icons + Components)**  
 - ⚛️ **React Hooks (useState)**  
 - 💅 Custom CSS  
-- 📍 Functional components
+- 📍 Functional components  
 
 ---
 
@@ -85,7 +84,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to see the app.
+Open **[http://localhost:5173](http://localhost:5173)** in your browser to see the app.
 
 ---
 
@@ -129,8 +128,4 @@ GitHub: [https://github.com/vamshi-vamsharaj](https://github.com/vamshi-vamshara
 
 ⭐ *Thanks for checking out this project!*
 Happy coding! 🚀
-
-```
-
----
 
