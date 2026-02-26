@@ -5,6 +5,13 @@ This project lets users **create, delete, and manage notes** with an intuitive U
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Try the app here:  
+🔗 https://keeper-notes-app-nu.vercel.app
+
+---
+
 ## 🚀 Features
 
 This app currently includes:
